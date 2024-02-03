@@ -1,5 +1,5 @@
 # Hi there 👋  Welcome to my profile!
-![Visitors](https://vbr.wocr.tk/badge?page_id=ajwdd-visitors&color=55acb7&style=for-the-badge&logo=Github)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fajwdd&label=Visitors&countColor=%55acb7)
 ## 📚 Core Skills:
 #### Systems/Application
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) <br>
@@ -11,4 +11,4 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ajwdd&theme=dark&include_all_commits=true) <br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajwdd&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 ## 💻 Favorite repos
-![uForecast](https://github-readme-stats.vercel.app/api/pin?username=ajwdd&repo=ufinance&theme=dark)
+[![uFinace](https://github-readme-stats.vercel.app/api/pin?username=ajwdd&repo=ufinance&theme=dark)](https://github.com/ajwdd/ufinance)
