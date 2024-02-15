@@ -10,11 +10,8 @@
                                 ╭----------------------------------------------╮
                                 | ◎ ○ ○ ░░░░░░░░░░░░  About  ░░░░░░░░░░░░░░░░░░|
                                 +----------------------------------------------+
-                                |                                              |
                                 |> Computer Science student                    |
-                                |                                              |
                                 |> Currently living in Chicago                 |
-                                |                                              |
                                 |> View my repos & follow to see what I do next|
                                 |                                              |
                                 |                   ..eeeee..                  |
