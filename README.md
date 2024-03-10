@@ -21,3 +21,5 @@
      |                 *8*   8   *8*                |
      |                   **ee8ee**                  |
      +----------------------------------------------+</pre>
+<a align="left">![ajwdd's GitHub Stats](https://raw.githubusercontent.com/ajwdd/github-stats-transparent/output/generated/overview.svg)</a><a align="right">![ajwdd's Most Used Languages](https://raw.githubusercontent.com/ajwdd/github-stats-transparent/output/generated/languages.svg)</a>
+
