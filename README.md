@@ -1,20 +1,4 @@
-<pre>
-                        +---------------------------------------------------------+
-                        |        _      ________   _________  __  _________       |
-                        |       | | /| / / __/ /  / ___/ __ \/  |/  / __/ /       |  
-                        |       | |/ |/ / _// /__/ /__/ /_/ / /|_/ / _//_/        |
-                        |       |__/|__/___/____/\___/\____/_/  /_/___(_)         |
-                        |                My name is Adam aka ajwdd                |
-                        +---------------------------------------------------------+
-                                                     |
-                                                     v
-                             ╭----------------------------------------------╮
-                             | ◎ ○ ○ ░░░░░░░░░░░░  About  ░░░░░░░░░░░░░░░░░░|
-                             +----------------------------------------------+
-                             |> Computer Science student                    |
-                             |> Currently living in Chicago                 |
-                             |> View my repos and follow!                   |
-                             +----------------------------------------------+
-</pre>
-<a align="left">![ajwdd's GitHub Stats](https://raw.githubusercontent.com/ajwdd/github-stats-transparent/output/generated/overview.svg)</a><a align="right">![ajwdd's Most Used Languages](https://raw.githubusercontent.com/ajwdd/github-stats-transparent/output/generated/languages.svg)</a>
-
+<p align="center">
+  <img width="300" height="300" src="assets/icon.png">
+</p>
+<p style="text-align: center"><img src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fajwdd&logo=leetcode&logoColor=yellow"> <img src="https://img.shields.io/badge/Location-Chicago-41BDF5?style=flat&logo=homeassistantcommunitystore"> <img src="https://img.shields.io/badge/Occupation-Student-84B135?style=flat&logo=opsgenie"></p>
